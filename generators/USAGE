@@ -1,0 +1,5 @@
+Description:
+	Chop
+
+Example:
+    ./script/generate activity_migration (table_name || activities)
